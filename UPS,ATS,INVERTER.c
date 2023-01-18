@@ -216,3 +216,5 @@ int main() {
     printf("Input source: %d\n", input_source);
     return 0;
 }
+
+// by Josef Kulovany, ZCHG.org, COPYRIGHT 2023, ALL RIGHTS RESERVED, DO NOT REMOVE PER LICENSE AND COPYRIGHT LAW
