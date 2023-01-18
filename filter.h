@@ -27,4 +27,4 @@ double filter(double input) {
     return output;
 }
 
-// By Josef Kulovany, ZCHG.org, Copyright 2023 - Present, All Rights Reserved
+// by Josef Kulovany, ZCHG.org, COPYRIGHT 2023, ALL RIGHTS RESERVED, DO NOT REMOVE PER LICENSE AND COPYRIGHT LAW
